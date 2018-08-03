@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>JobManager</name>
-	<description>quartz.JobManager project for Spring Boot</description>
+	<description>基于Spring Boot的Quartz定时任务管理工具</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
