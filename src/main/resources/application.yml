@@ -10,6 +10,6 @@ spring:
       validationQuery: true
 mybatis: 
   mapper-locations:
-  - classpath:com/tongsh6/quartz/JobManager/mapper/*.xml
-  type-aliases-package: com.tongsh6.exercise.JobManager.entity
+  - classpath:com/tongsh6/quartz/jobmanager/mapper/*.xml
+  type-aliases-package: com.tongsh6.quartz.jobmanager.entity
     
